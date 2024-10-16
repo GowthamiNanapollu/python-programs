@@ -1,7 +1,6 @@
 # python-programs
-# Python Programming Assignments - HarvardX: CS50's Introduction to Python
 
-This repository contains Python programs and corresponding tests that have been developed as part of assignments for the **HarvardX: CS50's Introduction to Programming with Python** course offered on edX.
+This repository contains Python programs and corresponding tests for some of thr programs that have been developed as part of assignments for the **HarvardX: CS50's Introduction to Programming with Python** course offered on edX.
 
 ## Contents
 
@@ -27,7 +26,7 @@ The programs in this repository range from basic Python exercises to more comple
 ### Testing
 
 The programs have been tested using:
-- **Built-in Python testing libraries** like `unittest` and `pytest`
+- **Built-in Python testing libraries** like  `pytest`
 - Custom test cases provided by the course and verified through submission on the edX platform.
 
 ### Course Details
