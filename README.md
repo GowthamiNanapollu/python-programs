@@ -1,6 +1,6 @@
 # python-programs
 
-This repository contains Python programs and corresponding tests for some of thr programs that have been developed as part of assignments for the **HarvardX: CS50's Introduction to Programming with Python** course offered on edX.
+This repository contains Python programs and corresponding tests for some of the programs that have been developed as part of assignments for the **HarvardX: CS50's Introduction to Programming with Python** course offered on edX.
 
 ## Contents
 
